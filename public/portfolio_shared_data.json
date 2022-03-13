@@ -1,0 +1,68 @@
+{
+    "basic_info": {
+      "name": "Haruka Masamura",
+      "titles": [ "Front-end Developer", "Designer", "Artist" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/harukam122",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Matlab",
+          "class": "devicon-matlab-plain",
+          "level": "80"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "90"
+        },
+        {
+          "name": "Figma",
+          "class": "devicon-figma-plain",
+          "level": "75"
+        },
+        {
+          "name": "Illustrator",
+          "class": "devicon-illustrator-plain",
+          "level": "70"
+        },
+        {
+          "name": "Photoshop",
+          "class": "devicon-photoshop-plain",
+          "level": "70"
+        },
+        {
+          "name": "Github",
+          "class": "devicon-github-plain",
+          "level": "65"
+        },
+        {
+          "name": "Canva",
+          "class": "devicon-canva-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
