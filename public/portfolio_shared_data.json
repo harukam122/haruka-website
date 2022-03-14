@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "name": "Haruka Masamura",
-      "titles": [ "Front-end Developer", "Designer", "Artist" ],
+      "titles": [ "Front-end Developer", "UX Designer", "Artist" ],
       "social": [
         {
           "name": "github",
@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/haruka-masamura/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"

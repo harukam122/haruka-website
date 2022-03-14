@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "こんにちは！",
-      "description": "👋 ブラウン大学一年生の正村遥佳です. コンピューターサイエンスとデザインエンジニアリング専攻で、テクノロジー、デザイン、ビジネスに興味を持っています。お気軽にご連絡ください！ 💜",
+      "description": "👋 ブラウン大学一年生の正村遥佳です. コンピューターサイエンスとデザインエンジニアリング専攻で、テクノロジー、UX デザインや、ビジネスに興味を持っています。お気軽にご連絡ください！ 💜",
       "section_name": {
         "about": "私について",
         "projects": "プロジェクト",
@@ -28,10 +28,14 @@
       {
         "title": "Evolution",
         "startDate": "2021",
-        "description": "An arcade game with various games including a machine learning version of flappy bird.",
+        "description": "フラッピーバードのマシンラーニングバージョンも含まれている、アーケードを作りました！フラッピーバードの他にも、テトリスやSnakeなどのゲームも楽しめます。",
         "images": [
           "images/portfolio/evolution/evolution1.jpg",
-          "images/portfolio/evolution/evolution2.jpg"
+          "images/portfolio/evolution/evolution2.jpg",
+          "images/portfolio/evolution/evolution5.jpg",
+          "images/portfolio/evolution/evolution6.jpg",
+          "images/portfolio/evolution/evolution4.jpg",
+          "images/portfolio/evolution/evolution3.jpg"
         ],
         "url": "",
         "technologies": [
@@ -44,7 +48,7 @@
       {
         "title": "Digital Art",
         "startDate": "2019",
-        "description": "Digital art is both a hobby and a side gig of mine! I take commissions for digital Japanese food art, and it has also become a means for me to share my love for my culture and cuisine :)",
+        "description": "趣味の一つのデジタルフードアートです。 日本食のフードアートのご依頼をいただいたり、ただ楽しみとして描いたりしています。日本の文化や和食の美しさを伝えられるメディアで、世界の方々に日本食をもっと知ってもらいたい、という気持ちから始めました。:)",
         "images": [
           "images/portfolio/digital-art/p1.jpg",
           "images/portfolio/digital-art/p2.jpg",
@@ -89,13 +93,24 @@
           ""
         ],
         "technologies": [
-          ""
+          "Adobe Spark"
+        ]
+      },
+      {
+        "company": "Hack@Brown",
+        "title": "Wolfram Award Winner",
+        "years": "2.2022",
+        "mainTech": [
+          "Figma"
+        ],
+        "technologies": [
+          "Figma"
         ]
       },
       {
         "company": "ConnectEdu",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "05.2020 - 07.2019",
         "mainTech": [
           "Google Analytics"
         ],
