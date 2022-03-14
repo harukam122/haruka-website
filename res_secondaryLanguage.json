@@ -1,0 +1,109 @@
+{
+    "basic_info": {
+      "description_header": "こんにちは！",
+      "description": "👋 ブラウン大学一年生の正村遥佳です. コンピューターサイエンスとデザインエンジニアリング専攻で、テクノロジー、デザイン、ビジネスに興味を持っています。お気軽にご連絡ください！ 💜",
+      "section_name": {
+        "about": "私について",
+        "projects": "プロジェクト",
+        "skills": "スキル",
+        "experience": "経験"
+      }
+    },
+    "projects": [
+      {
+        "title": "Decision Tree",
+        "startDate": "2022",
+        "description": "My implementation of a machine learning program which takes a set of training data and determines the target attribute of an input value",
+        "images": [
+          "images/portfolio/decision-tree/p1.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Evolution",
+        "startDate": "2021",
+        "description": "An arcade game with various games including a machine learning version of flappy bird.",
+        "images": [
+          "images/portfolio/evolution/evolution1.jpg",
+          "images/portfolio/evolution/evolution2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Digital Art",
+        "startDate": "2019",
+        "description": "Digital art is both a hobby and a side gig of mine! I take commissions for digital Japanese food art, and it has also become a means for me to share my love for my culture and cuisine :)",
+        "images": [
+          "images/portfolio/digital-art/p1.jpg",
+          "images/portfolio/digital-art/p2.jpg",
+          "images/portfolio/digital-art/p3.jpg",
+          "images/portfolio/digital-art/p4.jpg",
+          "images/portfolio/digital-art/p5.jpg",
+          "images/portfolio/digital-art/p6.jpg",
+          "images/portfolio/digital-art/p7.jpg",
+          "images/portfolio/digital-art/p8.jpg",
+          "images/portfolio/digital-art/p9.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "",
+            "name": "Procreate"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Full Stack @ Brown",
+        "title": "Front-End Developer, Designer",
+        "years": "2.2022 - present",
+        "mainTech": [
+          "React Native"
+        ],
+        "technologies": [
+          "React Native",
+          "Expo",
+          "JavaScript",
+          "HTML",
+          "Figma"
+        ]
+      },
+      {
+        "company": "Nelson Center for Entrepreneurship",
+        "title": "Research Assistant",
+        "years": "2.2022 - present",
+        "mainTech": [
+          ""
+        ],
+        "technologies": [
+          ""
+        ]
+      },
+      {
+        "company": "ConnectEdu",
+        "title": "Intern",
+        "years": "01.2018 - 09.2019",
+        "mainTech": [
+          "Google Analytics"
+        ],
+        "technologies": [
+          "Google Analytics",
+          "Facebook Analytics",
+          "Squarespace"
+        ]
+      }
+    ]
+  }
