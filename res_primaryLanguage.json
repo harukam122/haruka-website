@@ -31,7 +31,11 @@
         "description": "An arcade game with various games including a machine learning version of flappy bird.",
         "images": [
           "images/portfolio/evolution/evolution1.jpg",
-          "images/portfolio/evolution/evolution2.jpg"
+          "images/portfolio/evolution/evolution2.jpg",
+          "images/portfolio/evolution/evolution5.jpg",
+          "images/portfolio/evolution/evolution6.jpg",
+          "images/portfolio/evolution/evolution4.jpg",
+          "images/portfolio/evolution/evolution3.jpg"
         ],
         "url": "",
         "technologies": [
@@ -89,13 +93,24 @@
           ""
         ],
         "technologies": [
-          ""
+          "Adobe Spark"
+        ]
+      },
+      {
+        "company": "Hack@Brown",
+        "title": "Wolfram Award Winner",
+        "years": "2.2022",
+        "mainTech": [
+          "Figma"
+        ],
+        "technologies": [
+          "Figma"
         ]
       },
       {
         "company": "ConnectEdu",
         "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "years": "05.2020 - 07.2019",
         "mainTech": [
           "Google Analytics"
         ],
