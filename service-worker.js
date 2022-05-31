@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/haruka-website/precache-manifest.9332d96fedbb1127932cce0492e6804c.js"
+  "/haruka-website/precache-manifest.4145c6d0acaa25b9b4238b3f888809c9.js"
 );
 
 self.addEventListener('message', (event) => {
