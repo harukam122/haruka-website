@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Haruka. I'm a freshman at Brown studing Computer Science and Design Engineering. My interests lie at the intersection of tech, design, and business, and I'm particularly interested in how we can utilize technology and data to problem-solve and design better, more user-centric solutions for customers. Feel free to look around this website and reach out to me! 💜",
+      "description": "👋 I'm Haruka! I'm a freshman at Brown studing Computer Science and Design Engineering. My interests lie at the intersection of tech, design, and business, and I'm particularly interested in how we can utilize technology and data to problem-solve and design better, more user-centric solutions for customers. Feel free to look around this website and reach out to me! 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -22,6 +22,23 @@
           {
             "class": "devicon-java-plain",
             "name": "Java"
+          }
+        ]
+      },
+      {
+        "title": "Wiki Search Engine",
+        "startDate": "2022",
+        "description": "A search engine in Python that indexes and queries XML wiki files. The program prompts the user for search words/phrases and outputs the 10 most relevant wiki pages using TF-IDF scores and PageRank algorithm.",
+        "images": [
+          "images/portfolio/search/search1.jpg",
+          "images/portfolio/search/search2.jpg",
+          "images/portfolio/search/search3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
           }
         ]
       },
