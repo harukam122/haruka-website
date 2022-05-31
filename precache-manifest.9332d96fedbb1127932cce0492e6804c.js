@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e40067df7ec5207fe8c23fcb2e2ed42b",
+    "revision": "d262210657b083dc2a91eece9eff5c73",
     "url": "/haruka-website/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/haruka-website/static/css/2.d64471e2.chunk.css"
   },
   {
-    "revision": "549e4bc70fa67c54318b",
-    "url": "/haruka-website/static/css/main.271bb4fb.chunk.css"
+    "revision": "69e7fc11e93ad13a41d1",
+    "url": "/haruka-website/static/css/main.19ada3ff.chunk.css"
   },
   {
     "revision": "54c416e2c812d1ce3a45",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/haruka-website/static/js/2.b42869dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "549e4bc70fa67c54318b",
+    "revision": "69e7fc11e93ad13a41d1",
     "url": "/haruka-website/static/js/main.c77953ce.chunk.js"
   },
   {
