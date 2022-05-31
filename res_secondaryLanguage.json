@@ -26,6 +26,23 @@
         ]
       },
       {
+        "title": "Wiki Search Engine",
+        "startDate": "2022",
+        "description": "A search engine in Python that indexes and queries XML wiki files. The program prompts the user for search words/phrases and outputs the 10 most relevant wiki pages using TF-IDF scores and PageRank algorithm.",
+        "images": [
+          "images/portfolio/search/search1.jpg",
+          "images/portfolio/search/search2.jpg",
+          "images/portfolio/search/search3.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          }
+        ]
+      },
+      {
         "title": "Evolution",
         "startDate": "2021",
         "description": "フラッピーバードのマシンラーニングバージョンも含まれている、アーケードを作りました！フラッピーバードの他にも、テトリスやSnakeなどのゲームも楽しめます。",
