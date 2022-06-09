@@ -13,7 +13,7 @@
       {
         "title": "Decision Tree",
         "startDate": "2022",
-        "description": "My implementation of a machine learning program which takes a set of training data and determines the target attribute of an input value",
+        "description": "トレーニングデータを使い、物の様々な特徴によってユーザーの知りたい属性を見極めるプログラムです。",
         "images": [
           "images/portfolio/decision-tree/p1.jpg"
         ],
@@ -28,7 +28,7 @@
       {
         "title": "Wiki Search Engine",
         "startDate": "2022",
-        "description": "A search engine in Python that indexes and queries XML wiki files. The program prompts the user for search words/phrases and outputs the 10 most relevant wiki pages using TF-IDF scores and PageRank algorithm.",
+        "description": "Googleなどで使われているページランクというアルゴリズムやTF-IDFスコアを用いて、XMLファイル内を検索するサーチエンジンを作りました！ユーザーが検索内容を入力すると、トップ10ページのタイトルが表示されます。",
         "images": [
           "images/portfolio/search/search2.png",
           "images/portfolio/search/search3.png"
