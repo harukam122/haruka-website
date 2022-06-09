@@ -30,9 +30,9 @@
         "startDate": "2022",
         "description": "A search engine in Python that indexes and queries XML wiki files. The program prompts the user for search words/phrases and outputs the 10 most relevant wiki pages using TF-IDF scores and PageRank algorithm.",
         "images": [
-          "images/portfolio/search/search1.jpg",
-          "images/portfolio/search/search2.jpg",
-          "images/portfolio/search/search3.jpg"
+          "images/portfolio/search/search1.png",
+          "images/portfolio/search/search2.png",
+          "images/portfolio/search/search3.png"
         ],
         "url": "",
         "technologies": [
