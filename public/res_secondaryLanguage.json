@@ -13,7 +13,7 @@
       {
         "title": "Decision Tree",
         "startDate": "2022",
-        "description": "トレーニングデータを使い、物の様々な特徴によってユーザーの知りたい属性を見極めるプログラムです。",
+        "description": "トレーニングデータを使い、物の様々な特徴によってユーザーの知りたい属性を見極めるプログラムです。上記の例では色、形、匂いなどによって、キノコが毒キノコであるかがわかります！",
         "images": [
           "images/portfolio/decision-tree/p1.jpg"
         ],
@@ -44,7 +44,7 @@
       {
         "title": "Evolution",
         "startDate": "2021",
-        "description": "フラッピーバードのマシンラーニングバージョンも含まれている、アーケードを作りました！フラッピーバードの他にも、テトリスやSnakeなどのゲームも楽しめます。",
+        "description": "フラッピーバードのマシンラーニングバージョンも含まれている、アーケードを作りました！フラッピーバードの他にも、テトリスやSnakeなどのゲームも楽しめます。このプログラムのマシンラーニングには順伝搬型ニューラルネットワーク、そして活性化にはシグモイド関数を使っています。",
         "images": [
           "images/portfolio/evolution/evolution1.jpg",
           "images/portfolio/evolution/evolution2.jpg",
