@@ -44,7 +44,7 @@
       {
         "title": "Evolution",
         "startDate": "2021",
-        "description": "An arcade game with various games including a machine learning version of flappy bird.",
+        "description": "An arcade with various games including a machine learning version of flappy bird. The 'smart' flappy bird utilizes forward propagation and the sigmoid function as its activation function. Keeping track of a value defined as 'fitness,' each generation of flappy birds learn to fly through the pipes better and better!",
         "images": [
           "images/portfolio/evolution/evolution1.jpg",
           "images/portfolio/evolution/evolution2.jpg",
