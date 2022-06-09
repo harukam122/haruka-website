@@ -88,6 +88,18 @@
     ],
     "experience": [
       {
+        "company": "ZOAN",
+        "title": "VR Software Developer (Intern)",
+        "years": "6.2022 - present",
+        "mainTech": [
+          "Unreal Engine"
+        ],
+        "technologies": [
+          "Unreal Engine",
+          "3D Rendering Software"
+        ]
+      },
+      {
         "company": "Full Stack @ Brown",
         "title": "Front-End Developer, Designer",
         "years": "2.2022 - present",
