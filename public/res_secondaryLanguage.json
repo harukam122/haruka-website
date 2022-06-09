@@ -30,7 +30,6 @@
         "startDate": "2022",
         "description": "A search engine in Python that indexes and queries XML wiki files. The program prompts the user for search words/phrases and outputs the 10 most relevant wiki pages using TF-IDF scores and PageRank algorithm.",
         "images": [
-          "images/portfolio/search/search1.png",
           "images/portfolio/search/search2.png",
           "images/portfolio/search/search3.png"
         ],
@@ -88,6 +87,18 @@
     ],
     "experience": [
       {
+        "company": "ZOAN",
+        "title": "VR Software Developer (Intern)",
+        "years": "6.2022 - present",
+        "mainTech": [
+          "Unreal Engine"
+        ],
+        "technologies": [
+          "Unreal Engine",
+          "3D Rendering Software"
+        ]
+      },
+      {
         "company": "Full Stack @ Brown",
         "title": "Front-End Developer, Designer",
         "years": "2.2022 - present",
@@ -105,7 +116,7 @@
       {
         "company": "Nelson Center for Entrepreneurship",
         "title": "Research Assistant",
-        "years": "2.2022 - present",
+        "years": "2.2022 - 5.2022",
         "mainTech": [
           ""
         ],
