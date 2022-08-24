@@ -1,4 +1,6 @@
 import React, { Component } from "react";
+// import { Icon } from '@iconify/react';
+// import pawIcon from '@iconify/icons-ion/paw';
 // import { Icon } from "@iconify/react";
 // import angularIcon from "@iconify/icons-logos/angular-icon";
 // import reactIcon from "@iconify/icons-logos/react";
@@ -30,14 +32,6 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  {/* <Icon
-                    icon={angularIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  /> */}
                 </span>
               </div>
             </div>
@@ -68,7 +62,7 @@ class About extends Component {
                     className="card-body font-trebuchet text-justify ml-3 mr-3"
                     style={{
                       height: "auto",
-                      fontSize: "132%",
+                      fontSize: "180%",
                       lineHeight: "200%",
                     }}
                   >

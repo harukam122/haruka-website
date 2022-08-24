@@ -6,6 +6,8 @@ import {
 import "react-vertical-timeline-component/style.min.css";
 import Badge from "react-bootstrap/Badge";
 
+
+
 class Experience extends Component {
   render() {
     if (this.props.resumeExperience && this.props.resumeBasicInfo) {
@@ -35,11 +37,9 @@ class Experience extends Component {
             iconStyle={{
               background: "#bf8e8e",
               color: "#fff",
-              textAlign: "center"
+              textAlign: "center",
             }}
-            icon={<i className="fab fa-angular experience-icon"></i>}
-            // icon={<i class='far fa-heart fa-4x'></i>}
-            // icon={<i class='fas fa-paw fa-3x'></i>}
+            icon={<i class='fas fa-paw fa-3x mx-auto experience-icon'></i>}
             key={i}
           >
             <div style={{ textAlign: "left", marginBottom: "4px" }}>
@@ -80,7 +80,7 @@ class Experience extends Component {
             {work}
             <VerticalTimelineElement
               iconStyle={{
-                background: "#AE944F",
+                background: "#bf8e8e",
                 color: "#fff",
                 textAlign: "center",
               }}
@@ -89,6 +89,17 @@ class Experience extends Component {
               }
             />
           </VerticalTimeline>
+          &nbsp;
+          <center>
+            {/* <iframe 
+              title="resume"
+              src="https://docs.google.com/document/d/e/2PACX-1vS8t7LTdGIZBxuIpc58uZeMdDLSOQu2cUgiZDwEP537yipyF4ku84aItpIePxbXfgRacMNCdwDzx0UG/pub?embedded=true"
+              width="80%"
+              height="1000px"
+              allowFullScreen="true"
+              marginTop="900px"
+            /> */}
+          </center>
         </div>
       </section>
     );

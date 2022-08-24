@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "こんにちは！",
-      "description": "👋 ブラウン大学一年生の正村遥佳です. コンピューターサイエンスとデザインエンジニアリング専攻で、テクノロジー、UX デザインや、ビジネスに興味を持っています。特に、テクノロジーやデータを使いどのように最もユーザーセントリックなソリューションデザインを届けられるかに興味があります。お気軽にご連絡ください！ 💜",
+      "description": "👋 ブラウン大学一年生の正村遥佳です. コンピューターサイエンスとデザインエンジニアリング専攻で、テクノロジー、UX デザインや、ビジネスに興味を持っています。特に、テクノロジーやデータを使いどのように最もユーザーセントリックなソリューションデザインを届けられるかに興味があります。お気軽にご連絡ください！ 💜    (Email: haruka_masamura@brown.edu or Phone: (+81)090-4450-1611)",
       "section_name": {
         "about": "私について",
         "projects": "プロジェクト",
@@ -87,15 +87,44 @@
     ],
     "experience": [
       {
-        "company": "ZOAN",
-        "title": "VR Software Developer (Intern)",
-        "years": "6.2022 - present",
+        "company": "CS15: Intro to Object-Oriented Programming",
+        "title": "(coming up...) Teaching Assistant",
+        "years": "9.2022 - ",
         "mainTech": [
-          "Unreal Engine"
+          ""
         ],
         "technologies": [
-          "Unreal Engine",
-          "3D Rendering Software"
+          ""
+        ]
+      },
+      {
+        "company": "ZOAN",
+        "title": "Software Engineer (Intern)",
+        "years": "6.2022 - present",
+        "mainTech": [
+          "MeVisLab"
+        ],
+        "technologies": [
+          "MeVisLab Definition Language",
+          "Python",
+          "Visual Programming"
+        ]
+      },
+      {
+        "company": "Nikkei Inc.",
+        "title": "Software Engineer (Intern)",
+        "years": "8.2022",
+        "mainTech": [
+          "Vue.js"
+        ],
+        "technologies": [
+          "Vue.js",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Node.js",
+          "Express.js",
+          "Python"
         ]
       },
       {

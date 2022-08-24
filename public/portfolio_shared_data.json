@@ -19,19 +19,34 @@
     "skills": {
       "icons": [
         {
-          "name": "Java",
-          "class": "devicon-java-plain",
-          "level": "95"
-        },
-        {
           "name": "Python",
           "class": "devicon-python-plain",
           "level": "95"
         },
         {
-          "name": "Matlab",
-          "class": "devicon-matlab-plain",
-          "level": "80"
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "95"
+        },
+        {
+          "name": "HTML",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Vue.js",
+          "class": "devicon-vuejs-plain",
+          "level": "95"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
         },
         {
           "name": "React",
@@ -44,14 +59,9 @@
           "level": "75"
         },
         {
-          "name": "Illustrator",
-          "class": "devicon-illustrator-plain",
-          "level": "70"
-        },
-        {
-          "name": "Photoshop",
-          "class": "devicon-photoshop-plain",
-          "level": "70"
+          "name": "Matlab",
+          "class": "devicon-matlab-plain",
+          "level": "80"
         },
         {
           "name": "Github",

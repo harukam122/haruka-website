@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Haruka! I'm a freshman at Brown studing Computer Science and Design Engineering. My interests lie at the intersection of tech, design, and business, and I'm particularly interested in how we can utilize technology and data to problem-solve and design better, more user-centric solutions for customers. Feel free to look around this website and reach out to me! 💜",
+      "description": "👋 I'm Haruka! I'm a freshman at Brown studing Computer Science and Design Engineering. My interests lie at the intersection of tech, design, and business, and I'm particularly interested in how we can utilize technology and data to problem-solve and design better, more user-centric solutions for customers. Feel free to look around this website and reach out to me! 💜    (Email: haruka_masamura@brown.edu or Phone: (+81)090-4450-1611)",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -87,15 +87,44 @@
     ],
     "experience": [
       {
-        "company": "ZOAN",
-        "title": "VR Software Developer (Intern)",
-        "years": "6.2022 - present",
+        "company": "CS15: Intro to Object-Oriented Programming",
+        "title": "(coming up...) Teaching Assistant",
+        "years": "9.2022 - ",
         "mainTech": [
-          "Unreal Engine"
+          ""
         ],
         "technologies": [
-          "Unreal Engine",
-          "3D Rendering Software"
+          ""
+        ]
+      },
+      {
+        "company": "ZOAN",
+        "title": "Software Engineer (Intern)",
+        "years": "6.2022 - present",
+        "mainTech": [
+          "MeVisLab"
+        ],
+        "technologies": [
+          "MeVisLab Definition Language",
+          "Python",
+          "Visual Programming"
+        ]
+      },
+      {
+        "company": "Nikkei Inc.",
+        "title": "Software Engineer (Intern)",
+        "years": "8.2022",
+        "mainTech": [
+          "Vue.js"
+        ],
+        "technologies": [
+          "Vue.js",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Node.js",
+          "Express.js",
+          "Python"
         ]
       },
       {
