@@ -102,11 +102,29 @@
         "title": "VR Software Developer (Intern)",
         "years": "6.2022 - present",
         "mainTech": [
-          "Unreal Engine"
+          "MeVisLab"
         ],
         "technologies": [
-          "Unreal Engine",
-          "3D Rendering Software"
+          "MeVisLab Definition Language",
+          "Python",
+          "Visual Programming"
+        ]
+      },
+      {
+        "company": "NIKKEI",
+        "title": "Software Engineer (Intern)",
+        "years": "8.2022",
+        "mainTech": [
+          "Vue.js"
+        ],
+        "technologies": [
+          "Vue.js",
+          "JavaScript",
+          "HTML",
+          "CSS",
+          "Node.js",
+          "Express.js",
+          "Python"
         ]
       },
       {

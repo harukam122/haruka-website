@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/haruka-website/static/css/main.a85689e9.chunk.css",
-    "main.js": "/haruka-website/static/js/main.b4b6642e.chunk.js",
-    "main.js.map": "/haruka-website/static/js/main.b4b6642e.chunk.js.map",
+    "main.js": "/haruka-website/static/js/main.6281af4f.chunk.js",
+    "main.js.map": "/haruka-website/static/js/main.6281af4f.chunk.js.map",
     "runtime-main.js": "/haruka-website/static/js/runtime-main.ec2ca651.js",
     "runtime-main.js.map": "/haruka-website/static/js/runtime-main.ec2ca651.js.map",
     "static/css/2.9c389199.chunk.css": "/haruka-website/static/css/2.9c389199.chunk.css",
     "static/js/2.65a1987c.chunk.js": "/haruka-website/static/js/2.65a1987c.chunk.js",
     "static/js/2.65a1987c.chunk.js.map": "/haruka-website/static/js/2.65a1987c.chunk.js.map",
     "index.html": "/haruka-website/index.html",
-    "precache-manifest.05d66eaa996a57700384aa6f29b61044.js": "/haruka-website/precache-manifest.05d66eaa996a57700384aa6f29b61044.js",
+    "precache-manifest.4faf93d7799259fbac72ba0a5e4bd4a9.js": "/haruka-website/precache-manifest.4faf93d7799259fbac72ba0a5e4bd4a9.js",
     "service-worker.js": "/haruka-website/service-worker.js",
     "static/css/2.9c389199.chunk.css.map": "/haruka-website/static/css/2.9c389199.chunk.css.map",
     "static/css/main.a85689e9.chunk.css.map": "/haruka-website/static/css/main.a85689e9.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.9c389199.chunk.css",
     "static/js/2.65a1987c.chunk.js",
     "static/css/main.a85689e9.chunk.css",
-    "static/js/main.b4b6642e.chunk.js"
+    "static/js/main.6281af4f.chunk.js"
   ]
 }
